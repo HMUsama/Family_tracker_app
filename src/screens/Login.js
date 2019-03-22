@@ -57,8 +57,7 @@ upload(){
 }
 
 Login=async()=> {
-  // const { type, token } = await Expo.Facebook.logInWithReadPermissionsAsync('2198298233772304', {
-  const { type, token } = await Expo.Facebook.logInWithReadPermissionsAsync('1996325183779367', {
+  const { type, token } = await Expo.Facebook.logInWithReadPermissionsAsync('******FB ID*********', {
       permissions: ['public_profile'],
     });
   if (type === 'success') {
