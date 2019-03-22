@@ -14,4 +14,7 @@ Run following commands in project home folder
 * Google Map
 * Current Location
 
+#### Setup
 
+* Put Firebase API key in config folder
+* Enter in your App Id in LogIn Function inside Screens folder/Login file
