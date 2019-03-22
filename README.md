@@ -1,6 +1,6 @@
-# Family Traker App
+# Family Tracker App
 
-Family Traker App is `React Native` Project ,Also `Redux`
+Family Tracker App is `React Native` Project ,Also `Redux`
 
 ## Installation Instructions
 
